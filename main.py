@@ -28,7 +28,7 @@ my_label.config(padx=50, pady=50)
 
 # Entry
 input_text = Entry()
-input_text["width"] = 10
+input_text["width"] = 50
 input_text.grid(column=3, row=3)
 
 
